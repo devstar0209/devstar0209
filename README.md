@@ -6,4 +6,4 @@
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gitdevstar&repo=Jax-Wallet-Android)](https://github.com/gitdevstar/Jax-Wallet-Android) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitdevstar&count_private=true&show_icons=true)](https://github.com/gitdevstar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitdevstar&count_private=true&show_icons=true&layout=compact)](https://github.com/gitdevstar/github-readme-stats)
