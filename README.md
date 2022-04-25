@@ -7,7 +7,7 @@
 
 |  |      |
 | :---        |        ----------       |
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitdevstar&count_private=true)] | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitdevstar&count_private=true&show_icons=true&layout=compact)](https://github.com/gitdevstar/github-readme-stats) |
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitdevstar&count_private=true)](https://github.com/gitdevstar) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitdevstar&count_private=true&show_icons=true&layout=compact)](https://github.com/gitdevstar/github-readme-stats) |
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gitdevstar)](https://github.com/gitdevstar/github-readme-stats)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gitdevstar&repo=Jax-Wallet-Android)](https://github.com/gitdevstar/Jax-Wallet-Android) -->
