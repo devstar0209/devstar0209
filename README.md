@@ -1,7 +1,8 @@
 ### ~~ Wecome ~~ 👋
 
-- 🔭 **PHP, Laravel, Android/Java/Kotlin, Swift, React/Redux/VueJS/TypeScript/JavaScript/JQuery, NodeJS, Solidity, Ethereum, Web3, GoogleMap, Stripe, Flutterwave, AWS codedeploy**.
-- 🌱 I have rich experience in CryptoWallet APP.
+- 🔭 **PHP, Laravel, Android/Java/Kotlin, Swift, NodeJS, React/Redux/VueJS/TypeScript/JavaScript/JQuery,
+- 🔭 ** Firebase(Analytics, Crashlytics, SMS, Email, Notification, Functions), Restful API, Stripe, Flutterwave, MTN, AWS, Web3, Twilio
+- 🌱 I focus on Fintech.
 - 📫 How to reach me: **skype: stonegiant0209   Discord: devstar#9645**
 
 
