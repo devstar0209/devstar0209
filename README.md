@@ -3,7 +3,6 @@
 - 🔭 **PHP, Laravel, Android/Java/Kotlin, Swift, NodeJS, React/Redux/VueJS/TypeScript/JavaScript/JQuery,
 - 🔭 ** Firebase(Analytics, Crashlytics, SMS, Email, Notification, Functions), Restful API, Stripe, Plaid, Alpaca, Flutterwave, MTN, AWS, Web3, Twilio
 - 🌱 I focus on Fintech.
-- 📫 How to reach me: **skype: stonegiant0209   Discord: devstar#9645**
 
 
 |  |      |
