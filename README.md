@@ -1,6 +1,6 @@
 ### ~~ Wecome ~~ 👋
 
-- 🔭 ** PHP, Laravel, NodeJS,
+- 🔭 ** PHP, Laravel, NodeJS, Python
 - 🔭 ** Android/Java/Kotlin, iOS/Swift, ReactJS/VueJS/TypeScript, Javascript, jQuery,
 - 🔭 ** Firebase(Analytics, Crashlytics, SMS, Email, Notification, Functions)
 - 🔭 ** Stripe, Paypal, Plaid, Flutterwave, Railsbank, Square
