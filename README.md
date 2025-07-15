@@ -4,7 +4,7 @@
 - 🔭 ** Android/Java/Kotlin, iOS/Swift, ReactJS/VueJS/TypeScript, Javascript, jQuery,
 - 🔭 ** Firebase(Analytics, Crashlytics, SMS, Email, Notification, Functions)
 - 🔭 ** Stripe, Paypal, Plaid, Flutterwave, Railsbank, Square
-- 🔭 ** Blockchain, web3, etherjs, walletconnect, metamask, rainbowkit
+- 🔭 ** Blockchain, web3, etherjs, walletconnect, metamask, rainbowkit, wagmi
 - 🌱 I focus on FinTech.
 
 
